@@ -25,6 +25,9 @@ portfolio: https://siddheshbadhan.com/
 - Critique and Feedback
 - User-Centric Design
 
+# Organization
+Graduate Student @ CMU | Ex- Cloud Analyst, ICICI Lombard
+
 # Portfolio
 
 # Examples
