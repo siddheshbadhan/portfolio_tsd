@@ -27,6 +27,23 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-The bar chart represents the data of different countries for a particular year with highlighting specific countries. It represents all non-highlighted countries in the same color. The labels of X and Y axis is missing in the bar chart and a single color scheme is followed. The second chart is the heat map which represents the debt-to GDP ratio of all the countries over the years in a single visualization. The color scheme helps in better understanding the data. It gives the flexibility to the user to view all the data at once and hover around to see the exact values.
 
-The third visualization gives the reader an analysis of the Impact of Covid-19 pandemic on the government debt-to-GDP ratio. The pandemic had a huge impact and for someone looking to dive deep into its impact on different countries would benefit from this visualization. It has the dropdown to select country from the list of countries available and shows the analysis for a span of 6 years from 2017 to 2022 wherever data is available. There is a color scheme which highlights the higher values. When the cursor is hovered, it gives exact values alongwith the presence of relevant title and labels.
+
+Bar Chart - Comparative Analysis by Country for a Selected Year:
+- Purpose: Displays the financial data of various countries for a specified year, with an emphasis on certain nations.
+Design: Countries of interest are highlighted in unique colors, while the rest are presented in a uniform color to maintain visual coherence.
+- Improvements Needed: The chart currently lacks axis labels, which are essential for identifying the metrics and units represented. A varied color palette could be introduced to differentiate between the highlighted countries more effectively.
+
+Heat Map - Debt-to-GDP Ratio Over Time:
+- Purpose: Offers a comprehensive view of the debt-to-GDP ratio across multiple countries over a range of years.
+- Features: Utilizes a gradient color scheme to encode data values, facilitating quick perception of trends and anomalies. The interactive element allows users to hover for precise figures.
+- Strengths: This visualization excels in presenting a large dataset in a compact format, enabling temporal comparisons at a glance.
+
+Impact Analysis Visualization - Covid-19 Pandemic:
+- Scope: Analyzes the effect of the Covid-19 pandemic on the government debt-to-GDP ratios over a six-year period, from 2017 to 2022.
+- Interactivity: Includes a dropdown menu for selecting individual countries, providing a tailored view of the data.
+- Visualization Tools: Employs a color-coding system to signify the magnitude of impact, with warmer colors indicating higher debt-to-GDP ratios.
+- User Engagement: Interactive tooltips display exact values upon cursor hover, enhancing the user experience.
+- Presentation: The visualization is well-equipped with a descriptive title and axis labels, ensuring that the information is accessible and understandable.
+
+I chose the third visualization to work on a subset of data to analyze the impact of Covid-19 pandemic on the government debt-to-GDP ratios.
