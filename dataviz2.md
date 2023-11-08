@@ -28,7 +28,7 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 </script>
 
 
-
+##
 Bar Chart - Comparative Analysis by Country for a Selected Year:
 - Purpose: Displays the financial data of various countries for a specified year, with an emphasis on certain nations.
 Design: Countries of interest are highlighted in unique colors, while the rest are presented in a uniform color to maintain visual coherence.
