@@ -1,4 +1,4 @@
-| [home page](https://siddheshbadhan.github.io/portfolio_tsd/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://siddheshbadhan.github.io/portfolio_tsd/) | [visualizing debt]([visualizing-government-debt](https://siddheshbadhan.github.io/portfolio_tsd/dataviz2)) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  
