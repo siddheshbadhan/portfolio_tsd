@@ -1,4 +1,4 @@
-# Biggest Tomato & Potato producers
+# Biggest Tomato & Potato Producers
 
 ## Selection of the Dataset
 "I selected this dataset because it offers an extensive global production data of tomatoes and potatoes over 50 years. This vast timespan and geographical scope present an opportunity for in-depth insights. Initially, the analysis focused solely on tomato production, missing out on crucial country-specific production details. This gap highlighted the dataset's potential for a more nuanced analysis, sparking my interest in exploring it further."
