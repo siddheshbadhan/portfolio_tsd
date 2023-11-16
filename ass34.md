@@ -1,11 +1,11 @@
-## Biggest Tomato & Potato producers
+# Biggest Tomato & Potato producers
 
-# Selection of the Dataset
+## Selection of the Dataset
 "I selected this dataset because it offers an extensive global production data of tomatoes and potatoes over 50 years. This vast timespan and geographical scope present an opportunity for in-depth insights. Initially, the analysis focused solely on tomato production, missing out on crucial country-specific production details. This gap highlighted the dataset's potential for a more nuanced analysis, sparking my interest in exploring it further."
 
 Link: https://data.world/makeovermonday/2023w17
 
-# Original Visualization and Critique
+## Original Visualization and Critique
 "The original visualization showcased the world's top 12 tomato producers in a specific year between 1961 and 2021. It featured a bar chart and a pie chart, displaying production values and country names, embellished with national flags and color-coded for clarity.
 
 What Stood Out: The vibrant color scheme and clear country listings were immediately eye-catching.
@@ -14,7 +14,7 @@ Limitations: The donut chart's overlay on a busy background image detracted from
 Final Thoughts: My redesign aims to represent data on a global map, showing total production in tonnes per country. I plan to simplify the color palette to shades of a single color, indicating production volume, and eliminate the bar chart to avoid redundancy. Additionally, I will present production values in aggregated thousands or millions for clarity."
 
 
-# Initial Sketch and User Feedback
+## Initial Sketch and User Feedback
 
 <div class='tableauPlaceholder' id='viz1700093712254' style='position: relative'><noscript><a href='#'><img alt='Tomato&#47;Potato Production across the globe ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment4_1_17000934654180&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment4_1_17000934654180&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment4_1_17000934654180&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -32,7 +32,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 User Feedback: Generally, the map-based presentation and data aggregation were well-received. Viewers appreciated the specific data filters.
 Suggested Improvements: Despite the comprehensive dataset on the map, feedback suggested highlighting the top 10 producing countries for simplicity. I also received advice on adjusting the color palette for color blindness considerations and moving production values to tooltips for aesthetic purposes."
 
-# Final Design and Reflection
+## Final Design and Reflection
 
 <div class='tableauPlaceholder' id='viz1700097662957' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;R3&#47;R3W3BXCNF&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;R3W3BXCNF' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;R3&#47;R3W3BXCNF&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
