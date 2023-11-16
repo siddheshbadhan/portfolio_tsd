@@ -31,19 +31,19 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 ### Interview #1: Analyst, Late 30's
 
-Initial Impression: "The map provides a snapshot of global production for two staple crops"
-Understanding: "The visualization indicates production volume by country, differentiated by color. The inclusion of a year filter suggests data can be viewed historically."
-Clarity and Confusion: "The color distinction between tomatoes and potatoes isn't immediately clear, and '1 unknown' implies data irregularity or missing information. The scale and units of measurement could be more prominent."
-Intended Audience: "This is most useful for policymakers, researchers, and international agricultural organizations."
-Suggestions for Improvement: "An interactive legend would be helpful, as would tooltips for immediate data reading. It would also be beneficial to see a comparative mode for different years."
+- Initial Impression: "The map provides a snapshot of global production for two staple crops"
+- Understanding: "The visualization indicates production volume by country, differentiated by color. The inclusion of a year filter suggests data can be viewed historically."
+- Clarity and Confusion: "The color distinction between tomatoes and potatoes isn't immediately clear, and '1 unknown' implies data irregularity or missing information. The scale and units of measurement could be more prominent."
+- Intended Audience: "This is most useful for policymakers, researchers, and international agricultural organizations."
+- Suggestions for Improvement: "An interactive legend would be helpful, as would tooltips for immediate data reading. It would also be beneficial to see a comparative mode for different years."
 
 ### Interview #2: Manager, Early 40's
 
-Initial Impression: "This map is an educational tool that illustrates where our food comes from and highlights the scale of production."
-Understanding: "It shows production volumes, which can be filtered by year and crop type. It's an interactive teaching aid for students."
-Clarity and Confusion: "The meaning of the color coding isn't self-explanatory, and the '0M' requires context. Why some countries are shaded and others aren't should be explained."
-Intended Audience: "Educators and students"
-Suggestions for Improvement: "A legend and inclusion of top producers to get a quick analysis rather than spending time in understanding the details."
+- Initial Impression: "This map is an educational tool that illustrates where our food comes from and highlights the scale of production."
+- Understanding: "It shows production volumes, which can be filtered by year and crop type. It's an interactive teaching aid for students."
+- Clarity and Confusion: "The meaning of the color coding isn't self-explanatory, and the '0M' requires context. Why some countries are shaded and others aren't should be explained."
+- Intended Audience: "Educators and students"
+- Suggestions for Improvement: "A legend and inclusion of top producers to get a quick analysis rather than spending time in understanding the details."
 
 ### User Feedback: 
 Generally, the map-based presentation and data aggregation were well-received. Viewers appreciated the specific data filters.
