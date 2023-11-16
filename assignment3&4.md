@@ -8,10 +8,10 @@ Link: https://data.world/makeovermonday/2023w17
 ## Original Visualization and Critique
 "The original visualization showcased the world's top 12 tomato producers in a specific year between 1961 and 2021. It featured a bar chart and a pie chart, displaying production values and country names, embellished with national flags and color-coded for clarity.
 
-What Stood Out: The vibrant color scheme and clear country listings were immediately eye-catching.
-Effective Aspects: The bar chart effectively ranked countries by tomato production volume.
-Limitations: The donut chart's overlay on a busy background image detracted from data clarity, and the redundancy of both bar and donut charts for the same data was unnecessary.
-Final Thoughts: My redesign aims to represent data on a global map, showing total production in tonnes per country. I plan to simplify the color palette to shades of a single color, indicating production volume, and eliminate the bar chart to avoid redundancy. Additionally, I will present production values in aggregated thousands or millions for clarity."
+- What Stood Out: The vibrant color scheme and clear country listings were immediately eye-catching.
+- Effective Aspects: The bar chart effectively ranked countries by tomato production volume.
+- Limitations: The donut chart's overlay on a busy background image detracted from data clarity, and the redundancy of both bar and donut charts for the same data was unnecessary.
+- Final Thoughts: My redesign aims to represent data on a global map, showing total production in tonnes per country. I plan to simplify the color palette to shades of a single color, indicating production volume, and eliminate the bar chart to avoid redundancy. Additionally, I will present production values in aggregated thousands or millions for clarity."
 
 
 ## Initial Sketch and User Feedback
@@ -29,7 +29,24 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 <br>
 "In my initial Tableau sketch, I visualized the data on a global map, aggregating it into millions for clarity and changing the color palette. I included filters for year and item type and revised the title and legend.
 
-User Feedback: Generally, the map-based presentation and data aggregation were well-received. Viewers appreciated the specific data filters.
+### Interview #1: Analyst, Late 30's
+
+Initial Impression: "The map provides a snapshot of global production for two staple crops"
+Understanding: "The visualization indicates production volume by country, differentiated by color. The inclusion of a year filter suggests data can be viewed historically."
+Clarity and Confusion: "The color distinction between tomatoes and potatoes isn't immediately clear, and '1 unknown' implies data irregularity or missing information. The scale and units of measurement could be more prominent."
+Intended Audience: "This is most useful for policymakers, researchers, and international agricultural organizations."
+Suggestions for Improvement: "An interactive legend would be helpful, as would tooltips for immediate data reading. It would also be beneficial to see a comparative mode for different years."
+
+### Interview #2: Manager, Early 40's
+
+Initial Impression: "This map is an educational tool that illustrates where our food comes from and highlights the scale of production."
+Understanding: "It shows production volumes, which can be filtered by year and crop type. It's an interactive teaching aid for students."
+Clarity and Confusion: "The meaning of the color coding isn't self-explanatory, and the '0M' requires context. Why some countries are shaded and others aren't should be explained."
+Intended Audience: "Educators and students"
+Suggestions for Improvement: "A legend and inclusion of top producers to get a quick analysis rather than spending time in understanding the details."
+
+### User Feedback: 
+Generally, the map-based presentation and data aggregation were well-received. Viewers appreciated the specific data filters.
 Suggested Improvements: Despite the comprehensive dataset on the map, feedback suggested highlighting the top 10 producing countries for simplicity. I also received advice on adjusting the color palette for color blindness considerations and moving production values to tooltips for aesthetic purposes."
 
 ## Final Design and Reflection
