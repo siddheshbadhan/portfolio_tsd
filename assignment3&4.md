@@ -26,7 +26,7 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-</br>
+<br>
 "In my initial Tableau sketch, I visualized the data on a global map, aggregating it into millions for clarity and changing the color palette. I included filters for year and item type and revised the title and legend.
 
 User Feedback: Generally, the map-based presentation and data aggregation were well-received. Viewers appreciated the specific data filters.
@@ -52,5 +52,5 @@ Suggested Improvements: Despite the comprehensive dataset on the map, feedback s
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-</br>
+<br>
 "In response to feedback, I refined the color palette to a single hue and shifted production figures to tooltips. The final dashboard consists of two sections: a global map displaying production data and a list of the top 10 producing countries. I encountered challenges in accurately mapping country names, which have changed over the decades. The final title, "Global Production of Tomatoes & Potatoes in Tonnes" and "Top 10 Producing Countries," better reflects the content, and the inclusion of a data source ensures proper citation. The refined design is both aesthetically pleasing and informative, successfully balancing visual appeal with data accuracy."
