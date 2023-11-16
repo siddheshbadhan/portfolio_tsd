@@ -6,6 +6,9 @@
 Link: https://data.world/makeovermonday/2023w17
 
 ## Original Visualization and Critique
+
+![image](https://github.com/siddheshbadhan/portfolio_tsd/assets/57594239/5ddf4c23-b8f9-4c12-8569-a9c3a72fcec5)
+
 "The original visualization showcased the world's top 12 tomato producers in a specific year between 1961 and 2021. It featured a bar chart and a pie chart, displaying production values and country names, embellished with national flags and color-coded for clarity.
 
 - What Stood Out: The vibrant color scheme and clear country listings were immediately eye-catching.
