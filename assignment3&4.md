@@ -6,7 +6,7 @@
 Link: https://data.world/makeovermonday/2023w17
 
 ## Original Visualization and Critique
-! [image] (https://dms.licdn.com/playlist/vid/D4E05AQH7sBbxu4TC_Q/mp4-720p-30fp-crf28/0/1678029767831 e=1700715600&v=beta&t=JIzDEw48sA4Y2OzxOBh-HFAGwc7CSpSWzvc3tBbE3ms)
+! [image] (https://dms.licdn.com/playlist/vid/D4E05AQH7sBbxu4TC_Q/mp4-720p-30fp-crf28/0/1678029767831e=1700715600&v=beta&t=JIzDEw48sA4Y2OzxOBh-HFAGwc7CSpSWzvc3tBbE3ms)
 
 "The original visualization showcased the world's top 12 tomato producers in a specific year between 1961 and 2021. It featured a bar chart and a pie chart, displaying production values and country names, embellished with national flags and color-coded for clarity.
 
