@@ -76,6 +76,6 @@ Link: https://www.nyc.gov/site/finance/taxes/property-annualized-sales-update.pa
 
 # Method and medium
 
-The final project will be presented as an interactive digital narrative, utilizing a platform such as Tableau Public or a similar web-based storytelling tool. The focus will be on unraveling the complexities of the New York City real estate market, targeting real estate professionals, prospective homebuyers, renters, and market analysts. The story will:
+The final project will be a digital storytelling piece using a platform like Shorthand. The focus will be on unraveling the complexities of the New York City real estate market, targeting real estate professionals, prospective homebuyers, renters, and market analysts. The story will:
 - Engage through Interactive Visualizations: Leveraging the power of Tableau, the project will feature dynamic graphs, heat maps, and scatter plots. This approach allows users to explore data in an interactive manner, drilling down into specifics like neighborhoods, property types, and price ranges.
 - Narrative Structure: The project will craft a compelling narrative about the NYC real estate market, underpinned by robust data visualizations. It will guide the audience through various aspects of the market, from broader trends to detailed analysis of specific neighborhoods or property types.
