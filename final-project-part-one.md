@@ -38,27 +38,44 @@ Recommendations: Actionable suggestions for different stakeholders based on data
 Call to Action: Encouraging real estate professionals to integrate these insights into their strategies, and guiding potential buyers/renters in making informed decisions.
 
 
-Text here...
-
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![image](https://github.com/siddheshbadhan/portfolio_tsd/assets/57594239/2ccce69f-31a9-41ed-802c-501ce4580f24)
+
+![image](https://github.com/siddheshbadhan/portfolio_tsd/assets/57594239/24e9798c-5fdc-462f-8394-8bd8b0524d77)
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+The dataset revolves around property sales data in New York City. It's a comprehensive collection of information that details various aspects of property transactions, including location, building characteristics, and sale specifics. This dataset is an invaluable resource for analyzing real estate trends and dynamics within New York City. It has close to 2.5 lakh rows and covers the data from 2017-2019.
 
-Text here...
+Columns in the Dataset
+- Borough: Identifies the NYC borough where the property is located.
+- Neighborhood: Designated by the Department of Finance, representing the common neighborhood names.
+- Building Class Category: Broad categorization of properties (e.g., residential, commercial) for easy identification of similar property types.
+- Tax Class at Present: Classification of properties into one of four tax classes, based on use.
+- Block: A subdivision of the borough indicating the property's location.
+- Lot: Further subdivision of a Tax Block, representing a property's unique location.
+- Easement: Rights for limited use of the property by another entity.
+- Building Class at Present: Detailed classification describing a property's current use and construction style.
+- Address: Street address of the property.
+- Zip Code: Postal code of the property.
+- Residential Units: Number of residential units in the property.
+- Commercial Units: Number of commercial units in the property.
+- Total Units: Total number of units in the property.
+- Land Square Feet: Land area of the property in square feet.
+- Gross Square Feet: Total area of all building floors measured from the exterior surfaces.
+- Year Built: Year when the property structure was built.
+- Building Class at Time of Sale: Classification describing the property's use or construction style at the time of sale.
+- Sales Price: Transaction value of the property.
+- Sale Date: Date when the property was sold.
+- $0 Sales Price: Indicates non-monetary transactions.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+I am also using Building class dataset (https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html) to map the building code with the description. The join operation is being performed in Tableau. The original dataset requires lots of cleaning and merging of dataset since the dataset is available for each separate borough year wise, so for all 5 boroughs and for the 3 years from 2017-2019, it needs to be merged and combined to a single file. This data is publicly available and can be used for various analyses and insights generation.
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+Link: https://www.nyc.gov/site/finance/taxes/property-annualized-sales-update.page 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+The final project will be presented as an interactive digital narrative, utilizing a platform such as Tableau Public or a similar web-based storytelling tool. The focus will be on unraveling the complexities of the New York City real estate market, targeting real estate professionals, prospective homebuyers, renters, and market analysts. The story will:
+- Engage through Interactive Visualizations: Leveraging the power of Tableau, the project will feature dynamic graphs, heat maps, and scatter plots. This approach allows users to explore data in an interactive manner, drilling down into specifics like neighborhoods, property types, and price ranges.
+- Narrative Structure: The project will craft a compelling narrative about the NYC real estate market, underpinned by robust data visualizations. It will guide the audience through various aspects of the market, from broader trends to detailed analysis of specific neighborhoods or property types.
