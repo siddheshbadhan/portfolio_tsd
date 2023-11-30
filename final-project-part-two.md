@@ -11,18 +11,16 @@ To evaluate and refine real estate market trend visualizations, ensuring they ef
 ## Target audience
 
 The protocol focuses on:
-Property Investors: Individuals or entities actively investing in real estate.
-Property Buyers: Individuals in the process of or planning to buy property.
-Real Estate Market Enthusiasts: People with a keen interest in real estate trends but not professionally involved.
-Real Estate Researchers: Academics or professionals conducting research in real estate markets. 
+- **Property Investors:** Individuals or entities actively investing in real estate.
+- **Property Buyers:** Individuals in the process of or planning to buy property.
+- **Real Estate Market Enthusiasts:** People with a keen interest in real estate trends but not professionally involved.
+- **Real Estate Researchers:** Academics or professionals conducting research in real estate markets. 
 
 ## Approach to Identifying Representative Individuals:
 
 To find a diverse and representative sample, the following methods will be employed:
-Investment Groups and Forums: Engage with online real estate investment communities and local investment groups.
-Real Estate Buying Platforms and Forums: Target users on platforms dedicated to property buying and selling.
-Educational Institutions and Research Centers: Reach out to universities and research centers focusing on real estate studies.
-Social Media and Online Communities: Utilize targeted social media campaigns and online communities interested in real estate.
+- **Investment Groups and Forums:** Engage with online real estate investment communities and local investment groups.
+- **Real Estate Buying Platforms and Forums:** Target users on platforms dedicated to property buying and selling.
 
 ## Interview script
 - **Introduction:** Brief the purpose of the interview and ensure confidentiality.
