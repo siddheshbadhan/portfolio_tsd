@@ -1,29 +1,41 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+https://carnegiemellon.shorthandstories.com/navigating-new-yorks-real-estate-maze/ 
 
-Text here!
+From a young age, I've been captivated by the allure of New York City, particularly its dynamic real estate market. My dream of owning a home in the financial heart of the United States has driven me to delve deeply into this vibrant market. This project, born from a personal ambition and a professional interest in Fintech, aims to uncover the intricate factors influencing property prices in New York City. It is tailored to provide valuable insights for potential homebuyers, especially those belonging to Gen Z.
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+# Building on Foundations: From Parts I and II to III
 
-Text here!
+The project began with a personal aspiration and professional interest, which set the tone for Part I. Here, I started with the NYC real estate sales data[1], focusing on visualizations to extract preliminary insights. It was a stage of exploring and understanding the basic dynamics of the market.
 
-## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+In Part II, the scope expanded. By integrating the Building Class dataset[2], I could delve deeper into the nuances of the market. This phase was crucial for shaping the final analysis, as it involved data cleaning, understanding price trends, the impact of building age, and examining sales patterns across boroughs and zip codes.
 
-Text here!
+# Part III: Deepening the Analysis
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+In this final part, I made several key advancements:
 
-Text here!
+- **Audience Identification:** Through interviews and interactions, I identified the target audience for my final data story as young professionals and Gen Z individuals considering property investment in NYC. This influenced how I presented my findings, ensuring they were relatable and useful for this demographic.
+- **Incorporating Additional Datasets:** I added the Livability Index [3] and Facilities dataset[4] from NYC.gov to my analysis. This allowed me to explore factors beyond basic sales data, such as public amenities and their distribution across different boroughs, providing a more comprehensive view of what influences property choices.
+- **Refining Data Visualizations:** Based on feedback and the identified audience's preferences, I focused on creating more interactive and engaging visualizations. This included clearer, more intuitive charts and graphs that could be easily understood by a non-technical audience.
+- **Narrative Development:** My story initially centered around straightforward visualizations and analysis. I then incorporated a clear call to action and made the narrative more engaging for Gen Z audiences. The story was structured to guide them through understanding the dynamics of NYC's real estate market, culminating in actionable insights.
+- **Link to External Resources:** I included a link in the final narrative, directing readers to additional resources for a detailed analysis of buying a house in NYC. This link will eventually be updated to direct to my personal webpage, where I plan to continue sharing insights.
+
+# Reflections and Key Learnings
+This project has been a journey of growth and learning. One of the main takeaways was the importance of audience-centric storytelling in data science. Adapting complex data into a narrative that resonates with a specific audience requires understanding their needs and preferences.
+
+I also learned the value of iterative development and feedback. Each piece of feedback helped refine the project, making it more relevant and impactful. Balancing detailed data analysis with clear, accessible presentation was a continuous learning process.
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+[1] Manhattan Community Board 1. (2017). Livability index study [PDF]. NYC Government. https://www.nyc.gov/assets/manhattancb1/downloads/pdf/studies-and-reports/july2017-cb1-livability-index-study.pdf
 
-Text here!
+[2] NYC Department of Finance. (n.d.). Help building code. NYC Government. Retrieved [11/30/2023], from https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html 
+
+[3] NYC Department of Finance. (n.d.). Property annualized sales update. NYC Government. Retrieved [12/05/2023], from https://www.nyc.gov/site/finance/taxes/property-annualized-sales-update.page 
+
+
+[4] NYC Department of City Planning. (n.d.). Selected facilities and program sites. NYC Government. Retrieved [12/04/2023], from https://www.nyc.gov/site/planning/data-maps/open-data/dwn-selfac.page
+
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
