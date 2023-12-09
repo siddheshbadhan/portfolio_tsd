@@ -38,6 +38,6 @@ I also learned the value of iterative development and feedback. Each piece of fe
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+I liked working on this project. The dataset has a lot to offer and lots of additional things which can be considered to support the analysis. There were some anomalies present in the dataset and some outliers which I would have liked to address if I had more time. Some spikes in few of the graphs that I analyzed seem wierd. I was most excited to see how different factors have a play in the prices of houses in NYC and how those need to be considered and understood properly before buying a property in NYC. 
 
-Text here!
+In future, I would like to include more detailed analysis from different datasets and make a comparison on how these prices compare with California which is the second most preferred destination in the United States.
