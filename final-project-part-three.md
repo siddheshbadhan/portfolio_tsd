@@ -26,6 +26,11 @@ This project has been a journey of growth and learning. One of the main takeaway
 
 I also learned the value of iterative development and feedback. Each piece of feedback helped refine the project, making it more relevant and impactful. Balancing detailed data analysis with clear, accessible presentation was a continuous learning process.
 
+# Final thoughts
+I liked working on this project. The dataset has a lot to offer and lots of additional things which can be considered to support the analysis. There were some anomalies present in the dataset and some outliers which I would have liked to address if I had more time. Some spikes in few of the graphs that I analyzed seem wierd. I was most excited to see how different factors have a play in the prices of houses in NYC and how those need to be considered and understood properly before buying a property in NYC. 
+
+In future, I would like to include more detailed analysis from different datasets and make a comparison on how these prices compare with California which is the second most preferred destination in the United States.
+
 ## References
 [1] Manhattan Community Board 1. (2017). Livability index study [PDF]. NYC Government. https://www.nyc.gov/assets/manhattancb1/downloads/pdf/studies-and-reports/july2017-cb1-livability-index-study.pdf
 
@@ -36,8 +41,3 @@ I also learned the value of iterative development and feedback. Each piece of fe
 
 [4] NYC Department of City Planning. (n.d.). Selected facilities and program sites. NYC Government. Retrieved [12/04/2023], from https://www.nyc.gov/site/planning/data-maps/open-data/dwn-selfac.page
 
-
-# Final thoughts
-I liked working on this project. The dataset has a lot to offer and lots of additional things which can be considered to support the analysis. There were some anomalies present in the dataset and some outliers which I would have liked to address if I had more time. Some spikes in few of the graphs that I analyzed seem wierd. I was most excited to see how different factors have a play in the prices of houses in NYC and how those need to be considered and understood properly before buying a property in NYC. 
-
-In future, I would like to include more detailed analysis from different datasets and make a comparison on how these prices compare with California which is the second most preferred destination in the United States.
